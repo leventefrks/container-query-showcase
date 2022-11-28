@@ -1,0 +1,38 @@
+[
+  {
+    "title": "6. The Banshees of Inisherin",
+    "image": "the-banshees-of-inisherin.jpeg",
+    "description": "In Bruges is an all-time comedy great, so the reunion of Colin Farrell and Brendan Gleeson under the watchful eye of director Martin McDonagh is an enticing prospect for any movie lover. And boy, does this fizzingly funny and flawlessly acted anti-buddy movie live up to expectations.",
+    "url": "https://www.imdb.com/title/tt11813216/"
+  },
+  {
+    "title": "5. Paralell Mothers",
+    "image": "parallel-mothers.jpeg",
+    "description": "Pedro Almodóvar gets serious with this poignant investigation of Spain’s buried Civil War trauma, although without ever sacrificing his light touch and delight in giddying melodrama.",
+    "url": "https://www.imdb.com/title/tt12618926/?ref_=fn_al_tt_1"
+  },
+  {
+    "title": "4. Aftersun",
+    "image": "aftersun.jpeg",
+    "description": "Scottish filmmaker Charlotte Wells announced herself as a major talent with this sun-washed and achingly poignant drama about a divorced dad (Paul Mescal) and his young daughter (the effortlessly cool Francesca Corio) navigating the highs and lows of an eventful Turkish seaside holiday.",
+    "url": "https://www.imdb.com/title/tt19770238/?ref_=nv_sr_srsg_0"
+  },
+  {
+    "title": "3. The Northman",
+    "image": "northman.jpeg",
+    "description": "‘A widescreen rallying cry for cinema in the age of streaming’. So read Time Out’s admittedly fairly breathless appraisal of Robert Eggers’ brilliant, blood-soaked Viking epic when it landed in (smashed into? Ransacked?) cinemas in April",
+    "url": "https://www.imdb.com/title/tt11138512/?ref_=nv_sr_srsg_0"
+  },
+  {
+    "title": "2. Top Gun: Maverick",
+    "image": "topgun.jpeg",
+    "description": "Okay, hands up who saw this practically flawless blockbuster coming? A few people probably did – this long-in-the-making Top Gun sequel was originally due out two years ago – but that enforced delay detracts not one iota from the purest widescreen thrill ride of the year so far.",
+    "url": "https://www.imdb.com/title/tt1745960/?ref_=fn_al_tt_1"
+  },
+  {
+    "title": "1. Licorice Pizza",
+    "image": "licoric-pizza.png",
+    "description": "Paul Thomas Anderson delivered his sunniest film with this ‘70s nostalgia trip to the San Fernando Valley about a cocksure teenager trying to win the heart of a drifting twentysomething.",
+    "url": "https://www.imdb.com/title/tt11271038/?ref_=nv_sr_srsg_0"
+  }
+]

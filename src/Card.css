@@ -1,0 +1,32 @@
+.card {
+  margin-bottom: 0.5rem;
+  padding: 0.125rem;
+}
+
+.card .info {
+  padding: 0 1rem;
+}
+
+.card .info h2 {
+  font-weight: 600;
+  font-style: italic;
+}
+
+.card .image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 250px;
+  max-width: 100%;
+}
+
+.card a {
+  font-weight: 600;
+  color: #000;
+  font-size: 0.9rem;
+  transition: color 250ms ease-in;
+}
+
+.card a:hover {
+  color: #333;
+}

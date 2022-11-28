@@ -10,6 +10,8 @@ Simple container query tutorial based on Jack Harrington's [Why Container Querie
 - React
 - CSS Container Query
 
+[Demo version](https://container-query-showcase.netlify.app/)
+
 ## My Goal
 
 Today is a pretty ~~awful~~ grey Monday and wanted to make my day with this relatively new CSS technology.

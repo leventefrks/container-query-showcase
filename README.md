@@ -1,4 +1,4 @@
-# The 30 best films of 2022 (so far)
+# The 6 best films of 2022 (so far)
 
 The 6 best films of 2022 according to [Timeout.com](https://www.timeout.com/film/the-best-films-of-2022-so-far)
 

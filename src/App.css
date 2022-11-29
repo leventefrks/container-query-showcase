@@ -31,22 +31,3 @@ h1 {
     grid-gap: 1rem;
   }
 }
-
-@container (max-width: 36rem) {
-  .card .image {
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-  }
-}
-
-@container (min-width: 36rem) {
-  .card {
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-  }
-
-  .card .image {
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
-  }
-}

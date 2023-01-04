@@ -8,7 +8,7 @@ Simple container query tutorial based on Jack Harrington's [Why Container Querie
 
 - Vite
 - React
-- CSS Container Query
+- CSS Container Query (relativeley new CSS feature)
 
 [Demo version](https://container-query-showcase.netlify.app/)
 
